@@ -1,4 +1,4 @@
-# Hello `unknown`! my name is Vladislav Bachmackiy [Merry X-Mas](https://github.com/A-ST-RA/A-ST-RA/edit/master/README.md)
+# Hello `unknown`! my name is Vladislav Bachmackiy, [Merry X-Mas](https://github.com/A-ST-RA/A-ST-RA/edit/master/README.md)!
 
 ## I'm fullstack developer based in Russia
 
